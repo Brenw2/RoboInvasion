@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Robotic Invasion</title>
+	<script type="text/javascript" src="phaser/build/phaser.min.js"></script>
+	<style type="text/css">
+		body {
+			margin: 0;
+		}
+	</style>
+</head>
+<body>
+<script type="text/javascript">
+	var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+
+
+	function preload(){
+        game.load.spritesheet('spaceman','assets/spaceSoldier.png', 51, 51);
+        game.load.image('space', 'assets/background.png');
+	}
+    
+    
+    var player;
+    var space;
+    var controls;
+    
+	function create(){
+        game.physics.startSystem(Phaser.Physics.ARCADE);
+        game.add.sprite(0,0,'space');
+        
+        player = game.add.sprite(32, game.world.height - 150, 'spaceman');
+        
+        player.animations.add('right', [10, 11, 12, 13, 14, 15, 16, 17], 8, true);
+        player.animations.add('left', [20, 21, 22, 23, 24, 25, 26, 27], 8, true);
+
+        cursors = game.input.keyboard.createCursorKeys();
+
+        game.physics.arcade.enable(player);
+        
+        player.body.bounce.y = 0.2;
+        player.body.gravity.y = 300;
+        player.body.collideWorldBounds = true;
+        
+        
+	}
+
+	function update(){
+        
+    if (cursors.right.isDown)
+    {
+        player.body.velocity.x = 150;
+        player.animations.play('right');
+    }
+    else if (cursors.left.isDown)
+    {
+        player.body.velocity.x = -150;
+        player.animations.play('left');
+    }
+        
+    else
+    {
+        player.animations.stop();
+        player.body.velocity.x = 0;
+        player.frame = 0;
+    }
+
+
+}
+
+
+</script>
+</body>
+</html>
