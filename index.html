@@ -4,11 +4,10 @@
 <head>
     <meta charset="utf-8" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=no">
     <title>Robotic Invasion</title>
-    <script  src="/lib/phaser.js"></script>
+    <script src="/lib/phaser.js"></script>
     <script src="/src/states/Boot.js"></script>
     <script src="/src/states/Preloader.js"></script>
     <script src="/src/states/Level.js"></script>
-    
     <style type="text/css">
         body {
             padding: 0;
@@ -18,19 +17,15 @@
     </style>
 </head>
 
-<body> 
+<body>
     <script type=text/javascript>
-    window.onload = function(){
-        var game = new Phaser.Game(1000, 600, Phaser.CANVAS, Phaser.AUTO);
-        game.state.add('Boot', Game.Boot);
-        game.state.add('Preloader', Game.Preloader);
-        game.state.add('Level', Game.Level);
-       
-        
-        game.state.start('Boot');
-    
-};
-
+        window.onload = function () {
+            var game = new Phaser.Game(1200, 720, Phaser.CANVAS, Phaser.AUTO);
+            game.state.add('Boot', Game.Boot);
+            game.state.add('Preloader', Game.Preloader);
+            game.state.add('Level', Game.Level);
+            game.state.start('Boot');
+        };
     </script>
 </body>
 

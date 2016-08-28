@@ -1,0 +1,812 @@
+{"frames": {
+
+"playerSpaceman1.png":
+{
+	"frame": {"x":0,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman2.png":
+{
+	"frame": {"x":50,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman3.png":
+{
+	"frame": {"x":100,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman4.png":
+{
+	"frame": {"x":150,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman5.png":
+{
+	"frame": {"x":200,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman6.png":
+{
+	"frame": {"x":0,"y":50,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman7.png":
+{
+	"frame": {"x":50,"y":50,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman8.png":
+{
+	"frame": {"x":100,"y":50,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman9.png":
+{
+	"frame": {"x":150,"y":50,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman10.png":
+{
+	"frame": {"x":200,"y":50,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman11.png":
+{
+	"frame": {"x":0,"y":100,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman12.png":
+{
+	"frame": {"x":50,"y":100,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman13.png":
+{
+	"frame": {"x":100,"y":100,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman14.png":
+{
+	"frame": {"x":150,"y":100,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman15.png":
+{
+	"frame": {"x":200,"y":100,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman16.png":
+{
+	"frame": {"x":0,"y":150,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman17.png":
+{
+	"frame": {"x":50,"y":150,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman18.png":
+{
+	"frame": {"x":100,"y":150,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman19.png":
+{
+	"frame": {"x":150,"y":150,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman20.png":
+{
+	"frame": {"x":200,"y":150,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman21.png":
+{
+	"frame": {"x":0,"y":200,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman22.png":
+{
+	"frame": {"x":50,"y":200,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman23.png":
+{
+	"frame": {"x":100,"y":200,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman24.png":
+{
+	"frame": {"x":150,"y":200,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"playerSpaceman25.png":
+{
+	"frame": {"x":200,"y":200,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman26.png":
+{
+	"frame": {"x":0,"y":257,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman27.png":
+{
+	"frame": {"x":50,"y":257,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman28.png":
+{
+	"frame": {"x":100,"y":257,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman29.png":
+{
+	"frame": {"x":150,"y":257,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman30.png":
+{
+	"frame": {"x":200,"y":257,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman31.png":
+{
+	"frame": {"x":0,"y":314,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman32.png":
+{
+	"frame": {"x":50,"y":314,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman33.png":
+{
+	"frame": {"x":100,"y":314,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman34.png":
+{
+	"frame": {"x":150,"y":314,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman35.png":
+{
+	"frame": {"x":200,"y":314,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman36.png":
+{
+	"frame": {"x":0,"y":371,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman37.png":
+{
+	"frame": {"x":50,"y":371,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman38.png":
+{
+	"frame": {"x":100,"y":371,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman39.png":
+{
+	"frame": {"x":150,"y":371,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman40.png":
+{
+	"frame": {"x":200,"y":371,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman41.png":
+{
+	"frame": {"x":0,"y":428,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman42.png":
+{
+	"frame": {"x":50,"y":428,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman43.png":
+{
+	"frame": {"x":100,"y":428,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman44.png":
+{
+	"frame": {"x":150,"y":428,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman45.png":
+{
+	"frame": {"x":200,"y":428,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman46.png":
+{
+	"frame": {"x":0,"y":485,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman47.png":
+{
+	"frame": {"x":50,"y":485,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman48.png":
+{
+	"frame": {"x":100,"y":485,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman49.png":
+{
+	"frame": {"x":150,"y":485,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman50.png":
+{
+	"frame": {"x":200,"y":485,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman51.png":
+{
+	"frame": {"x":0,"y":542,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman52.png":
+{
+	"frame": {"x":50,"y":542,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman53.png":
+{
+	"frame": {"x":100,"y":542,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman54.png":
+{
+	"frame": {"x":150,"y":542,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman55.png":
+{
+	"frame": {"x":200,"y":542,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman56.png":
+{
+	"frame": {"x":0,"y":599,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman57.png":
+{
+	"frame": {"x":50,"y":599,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman58.png":
+{
+	"frame": {"x":100,"y":599,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman60.png":
+{
+	"frame": {"x":150,"y":599,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman61.png":
+{
+	"frame": {"x":200,"y":599,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman62.png":
+{
+	"frame": {"x":0,"y":656,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman63.png":
+{
+	"frame": {"x":50,"y":656,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman64.png":
+{
+	"frame": {"x":100,"y":656,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman65.png":
+{
+	"frame": {"x":150,"y":656,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman66.png":
+{
+	"frame": {"x":200,"y":656,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman67.png":
+{
+	"frame": {"x":0,"y":713,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman68.png":
+{
+	"frame": {"x":50,"y":713,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman69.png":
+{
+	"frame": {"x":100,"y":713,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman70.png":
+{
+	"frame": {"x":150,"y":713,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman71.png":
+{
+	"frame": {"x":200,"y":713,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman72.png":
+{
+	"frame": {"x":0,"y":770,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman73.png":
+{
+	"frame": {"x":50,"y":770,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman74.png":
+{
+	"frame": {"x":100,"y":770,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman75.png":
+{
+	"frame": {"x":150,"y":770,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman76.png":
+{
+	"frame": {"x":200,"y":770,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman77.png":
+{
+	"frame": {"x":0,"y":827,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman78.png":
+{
+	"frame": {"x":50,"y":827,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman79.png":
+{
+	"frame": {"x":100,"y":827,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman80.png":
+{
+	"frame": {"x":150,"y":827,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman81.png":
+{
+	"frame": {"x":200,"y":827,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman82.png":
+{
+	"frame": {"x":0,"y":884,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman83.png":
+{
+	"frame": {"x":50,"y":884,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman84.png":
+{
+	"frame": {"x":100,"y":884,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman85.png":
+{
+	"frame": {"x":150,"y":884,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman86.png":
+{
+	"frame": {"x":200,"y":884,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman87.png":
+{
+	"frame": {"x":0,"y":941,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman88.png":
+{
+	"frame": {"x":50,"y":941,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman89.png":
+{
+	"frame": {"x":100,"y":941,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman90.png":
+{
+	"frame": {"x":150,"y":941,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman91.png":
+{
+	"frame": {"x":200,"y":941,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman92.png":
+{
+	"frame": {"x":0,"y":998,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman93.png":
+{
+	"frame": {"x":50,"y":998,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman94.png":
+{
+	"frame": {"x":100,"y":998,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman95.png":
+{
+	"frame": {"x":150,"y":998,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman96.png":
+{
+	"frame": {"x":200,"y":998,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman97.png":
+{
+	"frame": {"x":0,"y":1055,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman98.png":
+{
+	"frame": {"x":50,"y":1055,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman99.png":
+{
+	"frame": {"x":100,"y":1055,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman100.png":
+{
+	"frame": {"x":150,"y":1055,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+},
+"playerSpaceman101.png":
+{
+	"frame": {"x":200,"y":1055,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "playerSpacemanSpriteMap.png",
+	"format": "RGBA8888",
+	"size": {"w":250,"h":1112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb512e8f3d7125612465bc2168b898dd:4ad408c590fd5f46e97fda5b864708dc:0809c7f2538c8784b5e9fbd376bd496b$"
+}
+}
